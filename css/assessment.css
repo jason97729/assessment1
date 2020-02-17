@@ -15,12 +15,13 @@ h1{
 section{
     grid-template-columns: 1fr 1fr;
     display: grid;
-    text-align: center;
+
 }
 
 div{
     padding: 25px; 
     margin:5px; 
+    text-align: center;
 
     /* YOUR CODE HERE */
 }
